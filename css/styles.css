@@ -24,7 +24,8 @@ body {
   font-size: 32px;
   line-height: 150%;
   background: #e5e5e5;
-  border: 0;
+  outline: none;
+  border: none;
 
   color: #0a3871;
 }
@@ -126,7 +127,8 @@ body {
   font-family: "Inter", sans-serif;
   color: #495057;
   background: #ffffff;
-  border: 0;
+  outline: none;
+  border: none;
 }
 .botton {
   position: absolute;
@@ -152,7 +154,8 @@ body {
     font-size: 20px;
     height: 200px;
     border: 0;
-
+    outline: none;
+    border: none;
     width: auto;
   }
   .input:valid {
@@ -162,6 +165,8 @@ body {
     font-size: 20px;
     height: 200px;
     border: 0;
+    outline: none;
+    border: none;
 
     width: auto;
   }
@@ -203,7 +208,8 @@ body {
     position: relative;
     height: 100px;
     opacity: 1;
-
+    outline: none;
+    border: none;
     top: -70px;
     bottom: 0;
     left: -5px;
